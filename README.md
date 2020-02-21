@@ -1,4 +1,4 @@
-# jest-yamap
+# vue-jest-template
 
 ## Project setup
 ```
